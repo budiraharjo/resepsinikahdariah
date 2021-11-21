@@ -1,0 +1,604 @@
+Uri: https://oendangan.id/novan-fidya/
+File Name: C:\Downloaded Web Sites\oendangan.id\novan-fidya\index.htm
+Content Type: text/html
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://oendangan.id/feed/
+File Name: C:\Downloaded Web Sites\oendangan.id\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://oendangan.id/comments/feed/
+File Name: C:\Downloaded Web Sites\oendangan.id\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://oendangan.id/novan-fidya/feed/
+File Name: C:\Downloaded Web Sites\oendangan.id\novan-fidya\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://c0.wp.com/c/5.8.2/wp-includes/css/dist/block-library/style.min.css
+File Name: C:\Downloaded Web Sites\oendangan.id\c\5.8.2\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/c/5.8.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+File Name: C:\Downloaded Web Sites\oendangan.id\c\5.8.2\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/c/5.8.2/wp-includes/js/mediaelement/wp-mediaelement.min.css
+File Name: C:\Downloaded Web Sites\oendangan.id\c\5.8.2\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/p/woocommerce/5.6.0/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css
+File Name: C:\Downloaded Web Sites\oendangan.id\p\woocommerce\5.6.0\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/p/woocommerce/5.6.0/packages/woocommerce-blocks/build/wc-blocks-style.css
+File Name: C:\Downloaded Web Sites\oendangan.id\p\woocommerce\5.6.0\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/better-recent-comments/assets/css/better-recent-comments.min.css?ver=5.8.2
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\better-recent-comments\assets\css\better-recent-comments.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/piotnet-addons-for-elementor-pro/assets/css/minify/extension.min.css?ver=6.3.54
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\piotnet-addons-for-elementor-pro\assets\css\minify\extension.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/addons/comment-kit/css/wdp_style.css?ver=2.7.6
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\addons\comment-kit\css\wdp_style.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/assets/css/wdp-centered-timeline.min.css?ver=5.8.2
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\assets\css\wdp-centered-timeline.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/assets/css/wdp-horizontal-styles.min.css?ver=5.8.2
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\assets\css\wdp-horizontal-styles.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/assets/css/wdp-fontello.css?ver=5.8.2
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\assets\css\wdp-fontello.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/assets/css/exad-styles.min.css?ver=5.8.2
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\assets\css\exad-styles.min.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/p/woocommerce/5.6.0/assets/css/woocommerce-layout.css
+File Name: C:\Downloaded Web Sites\oendangan.id\p\woocommerce\5.6.0\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/p/woocommerce/5.6.0/assets/css/woocommerce-smallscreen.css
+File Name: C:\Downloaded Web Sites\oendangan.id\p\woocommerce\5.6.0\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/p/woocommerce/5.6.0/assets/css/woocommerce.css
+File Name: C:\Downloaded Web Sites\oendangan.id\p\woocommerce\5.6.0\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/themes/hello-elementor/style.min.css?ver=2.3.1
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/themes/hello-elementor/theme.min.css?ver=2.3.1
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/tablepress/css/default.min.css?ver=1.13
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\tablepress\css\default.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/uploads/elementor/css/post-10.css?ver=1632582186
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\uploads\elementor\css\post-10.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/assets/css/wdp.css?ver=2.8.6
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\assets\css\wdp.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.5
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/uploads/elementor/css/global.css?ver=1632582198
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/uploads/elementor/css/post-30496.css?ver=1636324574
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\uploads\elementor\css\post-30496.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Kdam+Thmor:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lexend+Mega:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Jura:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Dancing+Script:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Condensed:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8.2
+File Name: C:\Downloaded Web Sites\oendangan.id\css.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/p/jetpack/10.1/css/jetpack.css
+File Name: C:\Downloaded Web Sites\oendangan.id\p\jetpack\10.1\css\jetpack.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-json/
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://oendangan.id/wp-json/wp/v2/posts/30496
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-json\wp\v2\posts\30496.json
+Content Type: application/json
+
+Uri: https://oendangan.id/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\oendangan.id\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://oendangan.id/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://oendangan.id/wp-json/oembed/1.0/embed?url=https:%2F%2Foendangan.id%2Fnovan-fidya%2F
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://oendangan.id/wp-json/oembed/1.0/embed?url=https:%2F%2Foendangan.id%2Fnovan-fidya%2F&format=xml
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/06/logo-oendangan4.png?fit=32%2C32&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\06\logo-oendangan4.png
+Content Type: image/png
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/06/logo-oendangan4.png?fit=50%2C50&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\06\logo-oendangan4-1.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/novanabriantok/
+File Name: C:\Downloaded Web Sites\oendangan.id\novanabriantok\index.htm
+Content Type: text/html
+
+Uri: https://us02web.zoom.us/j/81284184319?pwd=a1FSOERkZ3ZpMGxCdHJPYzZFNFNpUT09
+File Name: C:\Downloaded Web Sites\oendangan.id\j\81284184319.html
+Content Type: text/html
+
+Uri: https://oendangan.id/novan-fidya/?post_id=30496&comments=7&get=0&order=DESC
+File Name: C:\Downloaded Web Sites\oendangan.id\novan-fidya\index-1.htm
+Content Type: text/html
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-1-scaled.jpg?fit=2560%2C1707&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-2.jpg?fit=1000%2C1500&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-3.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-4-scaled.jpg?fit=1707%2C2560&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-4-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-6.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-6.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-7-scaled.jpg?fit=2560%2C1707&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-7-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://i1.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-9.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-9.jpg
+Content Type: image/jpeg
+
+Uri: https://i1.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-10.jpg?fit=1000%2C1500&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-10.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-11.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-11.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-12-scaled.jpg?fit=1707%2C2560&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-12-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-13.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-13.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-14.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-14.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-15.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-15.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-16.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-16.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-18-scaled.jpg?fit=2560%2C1707&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-18-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-19-scaled.jpg?fit=2560%2C1707&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-19-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-20.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-20.jpg
+Content Type: image/jpeg
+
+Uri: https://i1.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-21-scaled.jpg?fit=1707%2C2560&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-21-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-22-scaled.jpg?fit=2560%2C1707&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-22-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-24.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-24.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-25.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-25.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-26.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-26.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-27.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-27.jpg
+Content Type: image/jpeg
+
+Uri: https://i1.wp.com/oendangan.id/wp-content/uploads/2021/10/NOVAN-FIDYA-28.jpg?fit=1500%2C1000&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\NOVAN-FIDYA-28.jpg
+Content Type: image/jpeg
+
+Uri: https://www.instagram.com/kamajayaratihorganizer/
+File Name: C:\Downloaded Web Sites\oendangan.id\kamajayaratihorganizer\index.htm
+Content Type: text/html
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/c/5.8.2/wp-includes/js/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\oendangan.id\c\5.8.2\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/5.8.2/wp-includes/js/jquery/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\oendangan.id\c\5.8.2\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/piotnet-addons-for-elementor-pro/assets/js/minify/extension.min.js?ver=6.3.54
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\piotnet-addons-for-elementor-pro\assets\js\minify\extension.min.js
+Content Type: application/javascript
+
+Uri: https://stats.wp.com/s-202146.js
+File Name: C:\Downloaded Web Sites\oendangan.id\s-202146.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-147397559-1
+File Name: C:\Downloaded Web Sites\oendangan.id\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/uploads/2021/05/Sezairi-Its-You_8775241e6.mp3
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\uploads\2021\05\Sezairi-Its-You_8775241e6.mp3
+Content Type: audio/mpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/09/save-the-date-putih.png?w=800&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\09\save-the-date-putih.png
+Content Type: image/png
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-2-scaled.jpg?fit=683%2C1024&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-2-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-11-scaled.jpg?fit=683%2C1024&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-11-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://i1.wp.com/oendangan.id/wp-content/uploads/2021/07/logo-bca.png?w=800&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\07\logo-bca.png
+Content Type: image/png
+
+Uri: https://i1.wp.com/oendangan.id/wp-content/uploads/2020/10/01-14_2131bd84.png?fit=200%2C200&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2020\10\01-14_2131bd84.png
+Content Type: image/png
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2020/10/02-15_218e283c.png?fit=200%2C200&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2020\10\02-15_218e283c.png
+Content Type: image/png
+
+Uri: https://i1.wp.com/oendangan.id/wp-content/uploads/2020/10/04-15.png?fit=200%2C200&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2020\10\04-15.png
+Content Type: image/png
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2020/10/06-3.png?fit=200%2C200&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2020\10\06-3.png
+Content Type: image/png
+
+Uri: https://i1.wp.com/oendangan.id/wp-content/uploads/2020/10/05-10.png?fit=200%2C200&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2020\10\05-10.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/oendangan.id/wp-content/uploads/2020/10/03-9.png?fit=200%2C200&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2020\10\03-9.png
+Content Type: image/png
+
+Uri: https://oendangan.id/wp-content/plugins/wpaudio-mp3-player/wpaudio.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\wpaudio-mp3-player\wpaudio.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/p/jetpack/10.1/_inc/build/photon/photon.min.js
+File Name: C:\Downloaded Web Sites\oendangan.id\p\jetpack\10.1\_inc\build\photon\photon.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/dynamicconditions/Public/js/dynamic-conditions-public.js?ver=1.5.1
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\dynamicconditions\Public\js\dynamic-conditions-public.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/addons/comment-kit/js/wdp_script.js?ver=2.7.6
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\addons\comment-kit\js\wdp_script.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/addons/comment-kit/js/libs/jquery.jPages.min.js?ver=0.7
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\addons\comment-kit\js\libs\jquery.jPages.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/addons/comment-kit/js/libs/jquery.textareaCounter.js?ver=2.0
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\addons\comment-kit\js\libs\jquery.textareaCounter.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/addons/comment-kit/js/libs/jquery.placeholder.min.js?ver=2.0.7
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\addons\comment-kit\js\libs\jquery.placeholder.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/addons/comment-kit/js/libs/autosize.min.js?ver=1.14
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\addons\comment-kit\js\libs\autosize.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/assets/js/wdp-swiper.min.js
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\assets\js\wdp-swiper.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/assets/js/qr-code.js
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\assets\js\qr-code.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/assets/js/wdp-horizontal.js
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\assets\js\wdp-horizontal.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/assets/js/exad-scripts.min.js?ver=2.8.6
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\assets\js\exad-scripts.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/p/woocommerce/5.6.0/assets/js/jquery-blockui/jquery.blockUI.min.js
+File Name: C:\Downloaded Web Sites\oendangan.id\p\woocommerce\5.6.0\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/p/woocommerce/5.6.0/assets/js/frontend/add-to-cart.min.js
+File Name: C:\Downloaded Web Sites\oendangan.id\p\woocommerce\5.6.0\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/p/woocommerce/5.6.0/assets/js/js-cookie/js.cookie.min.js
+File Name: C:\Downloaded Web Sites\oendangan.id\p\woocommerce\5.6.0\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/p/woocommerce/5.6.0/assets/js/frontend/woocommerce.min.js
+File Name: C:\Downloaded Web Sites\oendangan.id\p\woocommerce\5.6.0\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/p/woocommerce/5.6.0/assets/js/frontend/cart-fragments.min.js
+File Name: C:\Downloaded Web Sites\oendangan.id\p\woocommerce\5.6.0\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/5.8.2/wp-includes/js/wp-embed.min.js
+File Name: C:\Downloaded Web Sites\oendangan.id\c\5.8.2\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.5
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.5
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/5.8.2/wp-includes/js/jquery/ui/core.min.js
+File Name: C:\Downloaded Web Sites\oendangan.id\c\5.8.2\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://oendangan.id/wp-content/plugins/weddingpress/assets/js/wdp.min.js?ver=2.8.6
+File Name: C:\Downloaded Web Sites\oendangan.id\wp-content\plugins\weddingpress\assets\js\wdp.min.js
+Content Type: application/javascript
+
+Uri: https://stats.wp.com/e-202146.js
+File Name: C:\Downloaded Web Sites\oendangan.id\e-202146.js
+Content Type: application/javascript
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-2-scaled.jpg?w=1707&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-2-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-2-scaled.jpg?resize=200%2C300&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-2-scaled-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-2-scaled.jpg?resize=683%2C1024&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-2-scaled-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-2-scaled.jpg?resize=768%2C1152&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-2-scaled-4.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-2-scaled.jpg?resize=1024%2C1536&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-2-scaled-5.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-2-scaled.jpg?resize=1365%2C2048&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-2-scaled-6.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-2-scaled.jpg?resize=600%2C900&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-2-scaled-7.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-2-scaled.jpg?w=1600&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-2-scaled-8.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-11-scaled.jpg?w=1707&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-11-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-11-scaled.jpg?resize=200%2C300&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-11-scaled-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-11-scaled.jpg?resize=683%2C1024&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-11-scaled-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-11-scaled.jpg?resize=768%2C1152&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-11-scaled-4.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-11-scaled.jpg?resize=1024%2C1536&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-11-scaled-5.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-11-scaled.jpg?resize=1365%2C2048&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-11-scaled-6.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-11-scaled.jpg?resize=600%2C900&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-11-scaled-7.jpg
+Content Type: image/jpeg
+
+Uri: https://i2.wp.com/oendangan.id/wp-content/uploads/2021/10/profil_novan_fidya-11-scaled.jpg?w=1600&ssl=1
+File Name: C:\Downloaded Web Sites\oendangan.id\oendangan.id\wp-content\uploads\2021\10\profil_novan_fidya-11-scaled-8.jpg
+Content Type: image/jpeg
+
+Uri: https://wordpress.com/
+File Name: C:\Downloaded Web Sites\oendangan.id\index.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\oendangan.id\index-1.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/fidyarendriany16/
+File Name: C:\Downloaded Web Sites\oendangan.id\fidyarendriany16\index.htm
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?service=cl&passive=1209600&osid=1&continue=https://calendar.google.com/calendar/render?action%3DTEMPLATE%26text%3DThe%2BWedding%2Bof%2BNovan%2B%2526%2BFidya%26details%3DThe%2BWedding%2Bof%2BNovan%2B%2526%2BFidyaJl%2BWisata%2BMenanggal%2BNo.%2B38%2BSurabaya%2BJawa%2BTimur%26dates%3D20211121T090000/20211121T235900%26location%3DGedung%2BGraha%2BWisata&followup=https://calendar.google.com/calendar/render?action%3DTEMPLATE%26text%3DThe%2BWedding%2Bof%2BNovan%2B%2526%2BFidya%26details%3DThe%2BWedding%2Bof%2BNovan%2B%2526%2BFidyaJl%2BWisata%2BMenanggal%2BNo.%2B38%2BSurabaya%2BJawa%2BTimur%26dates%3D20211121T090000/20211121T235900%26location%3DGedung%2BGraha%2BWisata
+File Name: C:\Downloaded Web Sites\oendangan.id\ServiceLogin.html
+Content Type: text/html
+
+Uri: https://oendangan.id/novan-fidya/?post_id=30496&comments=8&get=0&order=DESC
+File Name: C:\Downloaded Web Sites\oendangan.id\novan-fidya\index-2.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/accounts/login/
+File Name: C:\Downloaded Web Sites\oendangan.id\accounts\login\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/maps/embed?origin=mfe&pb=!1m4!2m1!1sGedung+Graha+Wisata+SUARABAYA!5e0!6i16
+File Name: C:\Downloaded Web Sites\oendangan.id\maps\embed.html
+Content Type: text/html
+
